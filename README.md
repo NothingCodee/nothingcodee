@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">ss</h3>
+<h3 align="center">I am a high school student in the 11th grade who is trying to improve myself.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
