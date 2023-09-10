@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">I am a high school student in the 11th grade who is trying to improve myself.</h3>
+<h3 align="center">I am a high school student in the 11th grade who is trying to improve myself.
+I've been programming since 2018, and my journey in the world of coding has 
+been incredibly rewarding so far.
+
+As I progress through my academic career and beyond, I'm excited to see where
+my programming skills will take me. Whether it's developing innovative solutions,
+contributing to open-source projects, or simply sharing my knowledge with others,
+I'm looking forward to making a positive impact in the world of technology.</h3>
 
 - The Last Project I Made: [yt-downloader](https://github.com/NothingCodee/yt_downloader)
 <h3 align="left">Connect with me:</h3>
