@@ -1,26 +1,28 @@
-<!-- Başlık -->
-<h1 align="center">Merhaba 👋, Ben Emir</h1>
+<!-- Title -->
+<h1 align="center">Hello 👋, I'm Emir</h1>
 
-<!-- Giriş -->
-<h3 align="center">11. sınıf öğrencisiyim ve kendimi geliştirmeye çalışan bir lise öğrencisiyim. 
-2018 yılından bu yana programlama ile ilgileniyorum ve kod dünyasındaki yolculuğum
-şu ana kadar son derece ödüllendirici oldu.
+<!-- Introduction -->
+<h3 align="center">I'm a high school student in the 11th grade who's dedicated to self-improvement. 
+I've been passionate about programming since 2018, and my journey in the world of coding 
+has been incredibly rewarding so far.
 
-Akademik kariyerim ve ötesinde ilerledikçe, programlama becerilerimin beni nereye götüreceğini görmek beni heyecanlandırıyor. Yaratıcı çözümler geliştirmek, açık kaynak projelere katkıda bulunmak veya sadece bilgimi diğerleriyle paylaşmak olsun, teknoloji dünyasında olumlu bir etki yaratma konusunda sabırsızlanıyorum.</h3>
+As I continue my academic journey and beyond, I'm excited to see where my programming skills 
+will take me. Whether it's crafting creative solutions, contributing to open-source projects, 
+or simply sharing my knowledge with others, I'm eager to make a positive impact in the world of technology.</h3>
 
-<!-- Son Proje -->
-<h3 align="left">Son Proje: <a href="https://github.com/NothingCodee/analiz-uygulamasi">Analiz Uygulaması</a></h3>
+<!-- Latest Project -->
+<h3 align="left">Latest Project: <a href="https://github.com/NothingCodee/analiz-uygulamasi">Analysis Application</a></h3>
 
-<!-- Sosyal Medya Bağlantıları -->
-<h3 align="left">Benimle İletişime Geçin:</h3>
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/emir.yazilmci" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emir.yazilmci" height="30" width="40" />
   </a>
 </p>
 
-<!-- Kullanılan Diller ve Araçlar -->
-<h3 align="left">Kullandığım Diller ve Araçlar:</h3>
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
