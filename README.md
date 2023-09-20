@@ -9,7 +9,7 @@
 Akademik kariyerim ve ötesinde ilerledikçe, programlama becerilerimin beni nereye götüreceğini görmek beni heyecanlandırıyor. Yaratıcı çözümler geliştirmek, açık kaynak projelere katkıda bulunmak veya sadece bilgimi diğerleriyle paylaşmak olsun, teknoloji dünyasında olumlu bir etki yaratma konusunda sabırsızlanıyorum.</h3>
 
 <!-- Son Proje -->
-<h3 align="left">Son Proje: <a href="[https://github.com/NothingCodee/yt_downloader](https://github.com/NothingCodee/analiz-uygulamasi)">Analiz Uygulaması</a></h3>
+<h3 align="left">Son Proje: <a href="[https://github.com/NothingCodee/analiz-uygulamasi]">Analiz Uygulaması</a></h3>
 
 <!-- Sosyal Medya Bağlantıları -->
 <h3 align="left">Benimle İletişime Geçin:</h3>
