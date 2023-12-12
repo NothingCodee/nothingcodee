@@ -13,13 +13,6 @@ or simply sharing my knowledge with others, I'm eager to make a positive impact 
 <!-- Latest Project -->
 <h3 align="left">Latest Project: <a href="https://github.com/NothingCodee/analiz-uygulamasi">Analysis Application</a></h3>
 
-<!-- Connect with me -->
-<h3 align="left">Contact with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/emir.yazilmci" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emir.yazilmci" height="30" width="40" />
-  </a>
-</p>
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
