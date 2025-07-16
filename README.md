@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Emir</h1>
 
 <!-- Introduction -->
-<h3 align="center">I'm a high school student in the 11th grade who's dedicated to self-improvement. 
+<h3 align="center">I'm a university student who's dedicated to self-improvement. 
 I've been passionate about programming since 2018, and my journey in the world of coding 
 has been incredibly rewarding so far.
 
